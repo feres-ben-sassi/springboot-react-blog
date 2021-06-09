@@ -42,16 +42,4 @@ Server Build      | Maven
 - admin email : admin@mail.com
 - admin password : admin
 
-## Screenshots
 
-### Main
-<img src="https://user-images.githubusercontent.com/11918870/46901090-1e3f4e80-cee8-11e8-917c-aee50d19ebb6.png" width="90%"></img>
-
-### Post
-<img src="https://user-images.githubusercontent.com/11918870/46901088-1da6b800-cee8-11e8-9f89-9a64a3b4f07e.png" width="90%"></img>
-
-### Editor
-<img src="https://user-images.githubusercontent.com/11918870/46901092-1e3f4e80-cee8-11e8-81c6-1ed6ba000b30.png" width="90%"></img>
-
-### Login
-<img src="https://user-images.githubusercontent.com/11918870/59153947-c02c3080-8aa1-11e9-9bdc-15fa6f37b5e6.PNG" width="90%"></img>
